@@ -21,7 +21,7 @@ This repository demonstrates the use of **Low-Rank Adaptation (LoRA)** to fine-t
  For the purpose of fine-tuning we used `peft` Parameter Efficient Fine-Tuning on two different datasets 
  - `food101`
  - `Human-Action-Recognition`
-Refer to the notebook [Here](https://github.com/Hercules45/LoRA-Finetuning/blob/master/ViT%20LoRA%20Fine%20Tuning.ipynb)
+Refer to the notebook [Here](https://github.com/Hercules45/LoRA-Finetuning/blob/master/LoRA%20Fine%20Tuning.ipynb)
 
 ## Running Inference with Gradio
 
