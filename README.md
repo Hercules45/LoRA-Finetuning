@@ -29,7 +29,7 @@ Refer to the notebook [Here](https://github.com/Hercules45/LoRA-Finetuning/blob/
  </br> Refer to the `inference.py` and `app.py`
  </br> In order to run the inference run the following code after downloading or cloning the repository.</br>
  ```
-python app.py
+python app.py 
 ```
 
  
